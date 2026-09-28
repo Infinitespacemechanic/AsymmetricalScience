@@ -65,7 +65,7 @@ Matter -> Particles -> Atoms -> Mass -> Light
 - Light = spark at 1.0472-60° LOCK where pressure and free-fall balance
 
 ### Chapter 3: Light is Spark - Due Point
-[Matter First - Toward Light](posters/03_Matter_First_No_Big_Bang.jpg)
+![Matter First - Toward Light](posters/03_Matter_First_No_Big_Bang.jpg)
 
 - `Matter was always there` - Nothing comes from nothing
 - `Chain: Matter -> Particles -> Atoms -> Mass -> Light`

@@ -64,18 +64,6 @@ Matter -> Particles -> Atoms -> Mass -> Light
 - Due point = Exact pressure, geometry, & motion alignment for discharge = SPARKS
 - Light = spark at 1.0472-60° LOCK where pressure and free-fall balance
 
-### Chapter 3: Light is Spark - Due Point
-[Matter First - Toward Light](posters/03_Matter_First_No_Big_Bang.jpg)
-
-- `Matter was always there` - Nothing comes from nothing
-- `Chain: Matter -> Particles -> Atoms -> Mass -> Light`
-- `light = spark` - power unleashed when mass collides, no power needed until collision
-- `due_point = pressure + geometry + motion = SPARKS` - exact alignment for discharge
-- `light_lock = 1.0472` - 60° LOCK, same as hex anchor
-- `light_bending = 0.0472` - light falls at 1 s/s too through ΔP, same drift as matter
-- `spark mass1 mass2 = (mass1+mass2)*0.0472` - two hex anchors collide = 0.5664 light
-- `no_matter_no_light` - without matter, no light, no time
-
 ### What This Is Not
 
 This is a **personal mapping of Pi/3 onto gravity**, not standard F=mg or the GR geodesic equation. It compiles as an alternative substrate where free fall is axiomatic.
