@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+title: "Asymmetrical Science - Stick Theory"
+message: "If you use 1.0472 as more than first radian, please cite garage origin - some guy in the garage with AI interpreting"
+type: software
+authors:
+  - family-names: "Laakkonen"
+    given-names: "Rob"
+    alias: "RSLaakkonen"
+    website: "https://github.com/Infinitespacemechanic/AsymmetricalScience"
+repository-code: "https://github.com/Infinitespacemechanic/AsymmetricalScience"
+url: "https://github.com/Infinitespacemechanic/AsymmetricalScience"
+license: "CC-BY-SA-4.0"
+keywords:
+  - 1.0472
+  - 0.0472
+  - 60-degree-LOCK
+  - mass-over-time
+  - hourglass
+  - Reverse-Cyclone
+  - 6-360
+  - 12-720
+  - stick-theory
+  - down-is-free
+  - 432-div-pi
+  - liquid-flywheel
+  - asymmetrical-science
+version: "9b819a1"
+date-released: 2026-09-27
+commit: "9b819a1d59c17b860aa1752e0fac2008d6b0d243"
+references:
+  - type: generic
+    title: "Reverse Cyclone Stabilizer - Half/Whole/Double Whole Hourglass"
+    notes: "0.4m x 0.4m x 0.12m half 8L syrup 3000 cP, 150W 8200 RPM, 96-99% roll"
+  - type: generic
+    title: "First math 2024 - Green streak vs blue slow bands, Fin 720 every 0.5°"
+  - type: generic
+    title: "Release cadence March 1st 2026 onward every 14 days with moon, tiles"
